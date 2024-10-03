@@ -17,6 +17,7 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | LASER558 |
 | News Radio UK |
 | Radio Caroline |
+| Radio Maria |
 | Radio Xtra |
 | Resonance Extra |
 | ZackFM |
