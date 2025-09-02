@@ -8,14 +8,12 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | Service Provider |
 | :------ |
 | Angel Vintage |
-| Cambridge 105 Radio |
+| Cambridge Radio |
 | CamDAB test|
 | Caroline Flashback |
 | Future Radio |
 | GlitterBeam |
-| HCR104fm |
 | LASER558 |
-| News Radio UK |
 | Radio Caroline |
 | Radio Maria |
 | Radio Xtra |
